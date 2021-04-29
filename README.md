@@ -3,13 +3,9 @@
 I write **👨‍💻 Embedded Code** used by elevator and maintain related **📦 Code Library** for a living.
 
 - 🧐 Interested in full stack (Although not engaged in related work).
-
 - 💼 Embedded Software Engineer at Shanghai Mitsubishi Elevator Co., Ltd.
-
 - 🎓 Bachelor of Engineering in Communication Engineering from Northeastern University.
-
 - 🌱 Currently learning algorithm and python.
-
 - 😉 Technology Products, Smart Home, NAS, Games, Music...
 
 <!---
