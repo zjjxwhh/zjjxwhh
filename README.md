@@ -1,8 +1,6 @@
 # Hello there 👋
 
-<div align="center">
-    <img src="https://github.com/zjjxwhh/zjjxwhh/blob/main/images/header.png">
-</div>
+<img src="https://github.com/zjjxwhh/zjjxwhh/blob/main/images/header.png">
 
 I write **👨‍💻 Embedded Code** used by elevator and maintain related **📦 Code Library** for a living.
 
